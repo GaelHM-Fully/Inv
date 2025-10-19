@@ -143,7 +143,7 @@ body{
 
 /* Cita bíblica */
 .biblia{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;margin-top:10px}
-.biblia blockquote{font-style:italic;font-size:1.6rem;color:#7c6769;max-width:600px;line-height:1.6;text-align:center}
+.biblia blockquote{font-style:italic;font-size:1.3rem;color:#7c6769;max-width:600px;line-height:1.6;text-align:center}
 .biblia footer{margin-top:10px;font-weight:bold;text-align:center}
 
 /* Títulos globales (cursiva) */
@@ -376,4 +376,5 @@ body{
     transition:none !important;
   }
 }
+
 
